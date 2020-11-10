@@ -11,4 +11,4 @@ export const Dog = {
 const useless = Dog.bark();
 const useless2 = Dog.useDependency();
 
-console.log('index.js executed successfully');
+// console.log('index.js executed successfully');
